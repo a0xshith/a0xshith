@@ -1,16 +1,11 @@
 ### Hi there 👋
 
-<!--
-**a0xshith/a0xshith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Binary Exploitation with teambi0s
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently member of **teambi0s** and a CTF player
+- 🌱 I’m currently learning **Binary Exploitation** also called as _pwning_
 - 📫 How to reach me: sakshith0027@gmail.com
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: **he/him/his**
+
+
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/a0xshith.png" alt="TryHackMe">
